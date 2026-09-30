@@ -3,6 +3,10 @@ dist/
 build/
 .next/
 coverage/
+.idea/
+.npm-cache/
+tmp/
+**/.git_backup*/
 
 .env
 .env.*
